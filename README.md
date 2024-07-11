@@ -2,7 +2,7 @@
 A small workflow for Alfred
 
 If you want to quickly access your assigned Merge Requests in GitLab, you can use this workflow.
-If you pass the query "review" you can also see the merge requests where you are assigned as a reviewer.
+If you pass the query "review" you can also see the merge requests where you are assigned as a reviewer **and have not approved yet**.
 
 Will open a new tab in your default browser.
 
